@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856cfbd8e8cf78a4ea675dee07c60441, type: 3}
+  m_Name: Rohn
+  m_EditorClassIdentifier: 
+  sailorName: Rohn
+  stringID: rohn
+  icon: {fileID: 0}
+  currentStation: 0
+  stationIcon: {fileID: 0}
+  maxFatigue: 100
+  fatigue: 100
+  onStation: 0
+  disease: 0
+  sailorAttributes:
+    navigationLevel: 6
+    sailingLevel: 3
+    bilgingLevel: 7
+    carpentingLevel: 5
+    gunningLevel: 3
+    treasureHaulingLevel: 4
+    brawlingLevel: 7
+    swordmanshipLevel: 3
+    medicineLevel: 5
+    scoutLevel: 2
+  flavorText: '"One of the sons of Sohn."'

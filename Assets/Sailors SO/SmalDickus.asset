@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856cfbd8e8cf78a4ea675dee07c60441, type: 3}
+  m_Name: SmalDickus
+  m_EditorClassIdentifier: 
+  sailorName: Smal Dickus
+  stringID: smalldickus
+  icon: {fileID: 21300000, guid: 9146b3d237ebe6043a348313bb14a2e3, type: 3}
+  currentStation: 0
+  stationIcon: {fileID: 0}
+  maxFatigue: 100
+  fatigue: 100
+  onStation: 0
+  disease: 0
+  sailorAttributes:
+    navigationLevel: 6
+    sailingLevel: 8
+    bilgingLevel: 4
+    carpentingLevel: 5
+    gunningLevel: 2
+    treasureHaulingLevel: 7
+    brawlingLevel: 6
+    swordmanshipLevel: 8
+    medicineLevel: 9
+    scoutLevel: 4
+  flavorText: '"Not as big as his brothers'', but equally effective."'

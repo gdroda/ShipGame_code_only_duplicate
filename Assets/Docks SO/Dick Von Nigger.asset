@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d26ea51621297143a47d930021f0706, type: 3}
+  m_Name: Dick Von Nigger
+  m_EditorClassIdentifier: 
+  dockName: Dick Von Nigger
+  stringID: dickvonnigger
+  commPackToSell:
+  - commodity: {fileID: 11400000, guid: 341504ebdc478b547a0b1e4237de7c9d, type: 2}
+    priceMod: 1.36
+  - commodity: {fileID: 11400000, guid: 3d099d89d74a7f342a8ed892bd7364e9, type: 2}
+    priceMod: 0.38
+  - commodity: {fileID: 11400000, guid: 20be691c715935e4896502aa02733786, type: 2}
+    priceMod: 2.1
+  - commodity: {fileID: 11400000, guid: b3f6a0313cd25cb43ae27a199dea3301, type: 2}
+    priceMod: 1.1
+  - commodity: {fileID: 11400000, guid: 4929cffe3004b814a8f8a6cbf8693578, type: 2}
+    priceMod: 1.6
+  - commodity: {fileID: 11400000, guid: 8d62aff6416a27f4b810ceb0ba3a0600, type: 2}
+    priceMod: 1.8
+  - commodity: {fileID: 11400000, guid: 19f53f72a8d91074cb0ad653dd00f8e9, type: 2}
+    priceMod: 1.25
+  - commodity: {fileID: 11400000, guid: ae9fe29c3d4755b419871acbce199951, type: 2}
+    priceMod: 1.2
+  - commodity: {fileID: 11400000, guid: 452c708bfe970804ab8a99a4e76e9fd9, type: 2}
+    priceMod: 1
+  - commodity: {fileID: 11400000, guid: 92fff097b4fde5244a7b28a7d3bc7fd6, type: 2}
+    priceMod: 0.8
+  - commodity: {fileID: 11400000, guid: 4ed2d95ef44482848b34d33f3a36d0b2, type: 2}
+    priceMod: 0.7
+  sailorsToSell:
+  - {fileID: 11400000, guid: e752b2f7038891749a5d0ba1faa580e9, type: 2}
+  - {fileID: 11400000, guid: 012787c961f77bc428b6ecbc6930d052, type: 2}
+  - {fileID: 11400000, guid: b47b4d42b8c2b724c911f9b99cc5f2fe, type: 2}
+  - {fileID: 11400000, guid: 7d86896855af8b2408e462594a09f688, type: 2}
+  shipsToSell:
+  - {fileID: 11400000, guid: 87746975d81f5b7468923e1aed2817d7, type: 2}
+  - {fileID: 11400000, guid: 58ee223233c19a34f98bd75b8c1c5da2, type: 2}
+  - {fileID: 11400000, guid: ce0c93e22d04f3d48b2b0ea03053be8b, type: 2}
+  docksToSailTo:
+  - {fileID: 11400000, guid: 82bd9ea9b87e7de4cbb4b7e3b2299034, type: 2}
+  - {fileID: 11400000, guid: 7dc5e50e038e5f846b231a03ea71ab2b, type: 2}
+  repairMod: 3

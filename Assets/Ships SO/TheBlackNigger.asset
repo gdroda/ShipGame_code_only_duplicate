@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 493491863ccb480418222e6dbb33c3c1, type: 3}
+  m_Name: TheBlackNigger
+  m_EditorClassIdentifier: 
+  shipName: The Black Nigger
+  stringID: nigger
+  icon: {fileID: 0}
+  shipModel: {fileID: 21300000, guid: a0308a6958e571946a6e66fca2038ad8, type: 3}
+  speed: 15
+  maxDurability: 1000
+  maxDamagedDurability: 819.8091
+  currentDurability: 624.5372
+  maxBilge: 100
+  currentBilge: 10.286098
+  maxStorage: 500
+  currentStorage: 0
+  commoditiesOnShip: []
+  sailorsMax: 8
+  shipStations:
+    navigationStations: 1
+    sailingStations: 2
+    bilgingStations: 2
+    carpentingStations: 2
+    gunningStations: 2
+    scoutStations: 1
+    restStations: 1
+  flavorText: '"It''s fast, it''s black, it''s the Black Nigger."'

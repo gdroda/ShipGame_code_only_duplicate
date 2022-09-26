@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856cfbd8e8cf78a4ea675dee07c60441, type: 3}
+  m_Name: BigusDickus
+  m_EditorClassIdentifier: 
+  sailorName: Bigus Dickus
+  stringID: bigusdickus
+  icon: {fileID: 21300000, guid: 982e8df8731fb38489ac53bce517b6de, type: 3}
+  currentStation: 7
+  stationIcon: {fileID: 0}
+  maxFatigue: 100
+  fatigue: 100
+  onStation: 0
+  disease: 0
+  sailorAttributes:
+    navigationLevel: 10
+    sailingLevel: 2
+    bilgingLevel: 3
+    carpentingLevel: 4
+    gunningLevel: 10
+    treasureHaulingLevel: 8
+    brawlingLevel: 10
+    swordmanshipLevel: 10
+    medicineLevel: 2
+    scoutLevel: 1
+  flavorText: '"The biggest of dicks, on your deck."'

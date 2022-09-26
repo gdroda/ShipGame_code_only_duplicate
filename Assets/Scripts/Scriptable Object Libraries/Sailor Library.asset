@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcbdefe0564764343a9c87b08b0a38f6, type: 3}
+  m_Name: Sailor Library
+  m_EditorClassIdentifier: 
+  sailors:
+  - {fileID: 11400000, guid: b47b4d42b8c2b724c911f9b99cc5f2fe, type: 2}
+  - {fileID: 11400000, guid: e752b2f7038891749a5d0ba1faa580e9, type: 2}
+  - {fileID: 11400000, guid: 7d86896855af8b2408e462594a09f688, type: 2}
+  - {fileID: 11400000, guid: 0f696b222bb23784d9e1b50b43e1a2f6, type: 2}
+  - {fileID: 11400000, guid: 15640f42026075643aeed74c1099437f, type: 2}
+  - {fileID: 11400000, guid: 25b8b50fd5d4e6848982333a4a0eb499, type: 2}
+  - {fileID: 11400000, guid: 012787c961f77bc428b6ecbc6930d052, type: 2}
+  - {fileID: 11400000, guid: aae96120f895e4844b8fe3bcf26694bb, type: 2}

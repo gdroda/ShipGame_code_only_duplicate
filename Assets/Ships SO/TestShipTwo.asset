@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 493491863ccb480418222e6dbb33c3c1, type: 3}
+  m_Name: TestShipTwo
+  m_EditorClassIdentifier: 
+  shipName: TestShipTwo
+  icon: {fileID: 0}
+  speed: 0
+  maxDurability: 0
+  currentDurability: 0
+  maxBilge: 0
+  currentBilge: 0
+  maxStorage: 0
+  currentStorage: 0
+  commoditiesOnBoard: []
+  sailorsMax: 0
+  shipStations:
+    navigationStations: 0
+    sailingStations: 0
+    bilgingStations: 0
+    carpentingStations: 0
+    gunningStations: 0
+    scoutStations: 0
+    restStations: 0
+  flavorText: 

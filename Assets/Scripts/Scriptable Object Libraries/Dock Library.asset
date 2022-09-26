@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2583f2d7765b354880a2877d15b752a, type: 3}
+  m_Name: Dock Library
+  m_EditorClassIdentifier: 
+  dockLib:
+  - {fileID: 11400000, guid: 435700236f0656644891ec0dde1cbd80, type: 2}
+  - {fileID: 11400000, guid: 82bd9ea9b87e7de4cbb4b7e3b2299034, type: 2}
+  - {fileID: 11400000, guid: 7dc5e50e038e5f846b231a03ea71ab2b, type: 2}
